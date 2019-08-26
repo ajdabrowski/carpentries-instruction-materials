@@ -17,4 +17,4 @@ These notebooks additionally draw on content from the following Carpentries less
 - Software Carpentry, [Plotting and Programming in Python](http://swcarpentry.github.io/python-novice-gapminder/)
 
 ### Recommended resources
-- Enthought `pandas` [cheatsheets](https://www.enthought.com/cheat-sheets-pandas-python-for-data-analysis/)
+- Enthought `pandas` [cheatsheets](https://www.enthought.com/cheat-sheets-pandas-python-for-data-analysis/) (free, but require providing contact information)
