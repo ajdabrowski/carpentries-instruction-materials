@@ -1,8 +1,8 @@
 # Carpentries Instruction Materials
-This repo includes materials used for teaching Carpentries workshops. 
+This repo includes materials I use for teaching [Carpentries](https://carpentries.org) workshops. 
 
 ## 2019-08-22-UT
-Contains Jupyter Notebooks with Markdown and code (Python 3.7) covering content from the [Data Carpentry](https://datacarpentry.org/lessons/) (DC) Ecology curriculum, [Data Analysis and Visualization in Python for Ecologists](https://datacarpentry.org/python-ecology-lesson/) lesson. The data used in these notebooks are available from the Ecology Curriculum webpage.
+Contains Jupyter Notebooks with Markdown and code (Python 3.7) covering content from the [Data Carpentry](https://datacarpentry.org/lessons/) (DC) Ecology curriculum, [Data Analysis and Visualization in Python for Ecologists](https://datacarpentry.org/python-ecology-lesson/) lesson. The data (CSV files) used in these notebooks are available from the Ecology Curriculum [setup](https://datacarpentry.org/python-ecology-lesson/setup.html) page.
 
 These notebooks cover the following topics:
 
@@ -16,6 +16,5 @@ These notebooks additionally draw on content from the following Carpentries less
 - Data Carpentry, Social Science Curriculum, [Data Analysis and Visualization with Python for Social Scientists *alpha*](https://datacarpentry.org/python-socialsci/)
 - Software Carpentry, [Plotting and Programming in Python](http://swcarpentry.github.io/python-novice-gapminder/)
 
-
-
 ### Recommended resources
+- Enthought `pandas` [cheatsheets](https://www.enthought.com/cheat-sheets-pandas-python-for-data-analysis/)
