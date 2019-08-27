@@ -13,7 +13,7 @@ These notebooks cover the following topics:
 
 These notebooks additionally draw on content from the following Carpentries lessons in order to describe concepts:
 
-- Data Carpentry, Social Science Curriculum, [Data Analysis and Visualization with Python for Social Scientists *alpha*](https://datacarpentry.org/python-socialsci/)
+- Data Carpentry, Social Science curriculum, [Data Analysis and Visualization with Python for Social Scientists *alpha*](https://datacarpentry.org/python-socialsci/)
 - Software Carpentry, [Plotting and Programming in Python](http://swcarpentry.github.io/python-novice-gapminder/)
 
 ### Recommended resources
