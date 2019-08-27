@@ -2,7 +2,7 @@
 This repo includes materials I use for teaching [Carpentries](https://carpentries.org) workshops. 
 
 ## 2019-08-22-UT
-Contains Jupyter Notebooks with Markdown and code (Python 3.7) covering content from the [Data Carpentry](https://datacarpentry.org/lessons/) (DC) Ecology curriculum, [Data Analysis and Visualization in Python for Ecologists](https://datacarpentry.org/python-ecology-lesson/) lesson. The data (CSV files) used in these notebooks are available from the Ecology curriculum [setup](https://datacarpentry.org/python-ecology-lesson/setup.html) page.
+Contains Jupyter Notebooks with Markdown and code (Python 3.7) covering content from the [Data Carpentry](https://datacarpentry.org/lessons/) (DC) Ecology curriculum, [Data Analysis and Visualization in Python for Ecologists](https://datacarpentry.org/python-ecology-lesson/) lesson. The data (CSV files) used in these notebooks are available from the Ecology lesson [setup](https://datacarpentry.org/python-ecology-lesson/setup.html) page.
 
 These notebooks cover the following topics:
 
