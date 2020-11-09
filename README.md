@@ -4,6 +4,8 @@ This repo includes materials I use for teaching [Carpentries](https://carpentrie
 ## 2020-11-09-SC20-HackHPC
 Contains Jupyter Notebooks with Markdown and code (Python 3.7) and data files (for Georgia, USA) covering content for a workshop introducing `pandas` dataframes, and basics of connecting to SQLite databases.
 
+This workshop session was recorded: [video](https://www.youtube.com/watch?v=F2RuFIUg998&feature=youtu.be).
+
 ## 2019-08-22-UT
 Contains Jupyter Notebooks with Markdown and code (Python 3.7) covering content from the [Data Carpentry](https://datacarpentry.org/lessons/) (DC) Ecology curriculum, [Data Analysis and Visualization in Python for Ecologists](https://datacarpentry.org/python-ecology-lesson/) lesson. The data (CSV files) used in these notebooks are available from the Ecology lesson [setup](https://datacarpentry.org/python-ecology-lesson/setup.html) page.
 
