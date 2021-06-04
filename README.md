@@ -1,6 +1,9 @@
 # Carpentries Instruction Materials
 This repo includes materials I use for teaching [Carpentries](https://carpentries.org) (and Carpenty-style) workshops. 
 
+## 2021-06-02-TAMU
+Contains PDF slides for [Library Carpentry](https://librarycarpentry.org) lessons on [Tidy data for librarians](https://librarycarpentry.org/lc-spreadsheets/) and [OpenRefine](https://librarycarpentry.org/lc-open-refine/), used to show lesson flow during the virtual Texas A&M University & Texas Digital Library workshop held June 01 — 04, 2021. 
+
 ## 2020-11-09-SC20-HackHPC
 Contains Jupyter Notebooks with Markdown and code (Python 3.7) and data files (for Georgia, USA) covering content for a workshop introducing `pandas` dataframes, and basics of connecting to SQLite databases.
 
